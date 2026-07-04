@@ -1,3 +1,3 @@
 # GK - OpenGL
 
-Zbiór zadań w Pythonie z OpenGL z laboratorium z GK
+Zbiór zadań laboratoryjnych w Pythonie z OpenGL z GK.
